@@ -2,5 +2,5 @@
 
 ## Labellmg
 
-LabelImg is a graphical image annotation tool. The images are in YOLO format. [installation](https://github.com/tzutalin/labelImg)
+LabelImg is a graphical image annotation tool. The labelled images are in YOLO format. [installation](https://github.com/tzutalin/labelImg)
 
